@@ -26,7 +26,7 @@ Hi! I'm **Jatin Sen**, a Computer Science student at **VIT Bhopal** with a stron
 ## 📎 Resume PDF
 
 You can view/download my latest resume here:
-👉 [Jatin_Sen_Resume.pdf](./Jatin's%20Resume%20JPMC.pdf)
+👉 [Jatin_Sen_Resume.pdf](./Jatin_Sen_Resume.pdf)
 
 ---
 
